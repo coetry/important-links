@@ -2,6 +2,7 @@
 # Modern Web
 
 [JAM Stack](https://jamstack.org)
+
 [Twelve Factor Apps](https://12factor.net)
 
 # Growth Hacking
